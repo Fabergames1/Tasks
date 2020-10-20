@@ -10,12 +10,3 @@ Conceitos utilizados:
 * Reutilização de RecyclerView
 * Banco de dados
 
-Fique à vontade para baixar o código, rodar o aplicativo e se tiver alguma dúvida, basta entrar em contato conosco através do site [DevMasterTeam](http://www.devmasterteam.com/#contact) e mesmo que não esteja no curso, teremos prazer em atendê-lo!
-
-[![](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image1.PNG)](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image1.PNG)
-
-[![](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image2.PNG)](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image2.PNG)
-
-[![](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image3.PNG)](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image3.PNG)
-
-[![](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image4.PNG)](https://github.com/DevMasterTeam/Kotlin-Android-Tasks/blob/master/presentation/image4.PNG)
