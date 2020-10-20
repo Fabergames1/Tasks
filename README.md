@@ -8,5 +8,6 @@ Conceitos utilizados:
 * Implementação de login
 * Última versão do Android (SDK26 - Android 8 - Oreo)
 * Reutilização de RecyclerView
-* Banco de dados
+* Banco de dados - SQLLite
+
 
